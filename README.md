@@ -5,4 +5,4 @@ Teknik Informatika
 Menjadi lebih baik
 
 # Ekspektasi
-Bisa banyak bahasa pemrograman & jadi programmer yang hebat
+Menjadi programmer hebat dan bermanfaat bagi orang banyak
